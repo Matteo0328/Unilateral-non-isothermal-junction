@@ -1,1 +1,0 @@
-# Unilateral-non-isothermal-junction
